@@ -1,0 +1,14 @@
+TheNewYorkTimes:1851:2134:14:Sulzberger:152
+TheYomiuriShimbun:1874:7044:7:YomiuriShimbunHolding:1006
+ReferenceNews:1931:3073:14:XinhuaNewsAgency:219
+DainikBhaskar:1948:4579:7:SubahSavere:654
+TheTimesofIndia:1838:3000:1:Bennett:3000
+USAToday:1982:504:7:MaribelPerezWadsworth:72
+HindustanDainik:1982:504:7:MaribelPerezWadsworth:72
+GuangzhouDaily:1982:504:7:MaribelPerezWadsworth:72
+NanfangDaily:1982:504:7:MaribelPerezWadsworth:72
+RajasthanPatrika:1982:504:7:MaribelPerezWadsworth:72
+Hindustan:1936:2221:7:AjayKumarJain:317
+TheWallStreetJournal:1889:2834:10:AlmarLatour:283
+Bild:1952:1150:5:AxelSpringerSE:230
+Magic:1999:1100:10:AxelSpringerSE:110
